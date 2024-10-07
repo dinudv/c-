@@ -1,2 +1,1 @@
-# c-
-web
+DSA preperation with cpp
